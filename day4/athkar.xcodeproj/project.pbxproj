@@ -7,23 +7,23 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		290FDD6C259BA13600C60E7B /* day4_exApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 290FDD6B259BA13600C60E7B /* day4_exApp.swift */; };
-		290FDD6E259BA13600C60E7B /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 290FDD6D259BA13600C60E7B /* ContentView.swift */; };
-		290FDD70259BA13800C60E7B /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 290FDD6F259BA13800C60E7B /* Assets.xcassets */; };
-		290FDD73259BA13800C60E7B /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 290FDD72259BA13800C60E7B /* Preview Assets.xcassets */; };
+		290FDDA8259D1DEF00C60E7B /* athkarApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 290FDDA7259D1DEF00C60E7B /* athkarApp.swift */; };
+		290FDDAA259D1DEF00C60E7B /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 290FDDA9259D1DEF00C60E7B /* ContentView.swift */; };
+		290FDDAC259D1DF100C60E7B /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 290FDDAB259D1DF100C60E7B /* Assets.xcassets */; };
+		290FDDAF259D1DF100C60E7B /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 290FDDAE259D1DF100C60E7B /* Preview Assets.xcassets */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
-		290FDD68259BA13600C60E7B /* day4 ex.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "day4 ex.app"; sourceTree = BUILT_PRODUCTS_DIR; };
-		290FDD6B259BA13600C60E7B /* day4_exApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = day4_exApp.swift; sourceTree = "<group>"; };
-		290FDD6D259BA13600C60E7B /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
-		290FDD6F259BA13800C60E7B /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
-		290FDD72259BA13800C60E7B /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
-		290FDD74259BA13800C60E7B /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		290FDDA4259D1DEF00C60E7B /* athkar.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = athkar.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		290FDDA7259D1DEF00C60E7B /* athkarApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = athkarApp.swift; sourceTree = "<group>"; };
+		290FDDA9259D1DEF00C60E7B /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
+		290FDDAB259D1DF100C60E7B /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
+		290FDDAE259D1DF100C60E7B /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		290FDDB0259D1DF100C60E7B /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
-		290FDD65259BA13600C60E7B /* Frameworks */ = {
+		290FDDA1259D1DEF00C60E7B /* Frameworks */ = {
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
@@ -33,38 +33,38 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
-		290FDD5F259BA13600C60E7B = {
+		290FDD9B259D1DEF00C60E7B = {
 			isa = PBXGroup;
 			children = (
-				290FDD6A259BA13600C60E7B /* day4 ex */,
-				290FDD69259BA13600C60E7B /* Products */,
+				290FDDA6259D1DEF00C60E7B /* athkar */,
+				290FDDA5259D1DEF00C60E7B /* Products */,
 			);
 			sourceTree = "<group>";
 		};
-		290FDD69259BA13600C60E7B /* Products */ = {
+		290FDDA5259D1DEF00C60E7B /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				290FDD68259BA13600C60E7B /* day4 ex.app */,
+				290FDDA4259D1DEF00C60E7B /* athkar.app */,
 			);
 			name = Products;
 			sourceTree = "<group>";
 		};
-		290FDD6A259BA13600C60E7B /* day4 ex */ = {
+		290FDDA6259D1DEF00C60E7B /* athkar */ = {
 			isa = PBXGroup;
 			children = (
-				290FDD6B259BA13600C60E7B /* day4_exApp.swift */,
-				290FDD6D259BA13600C60E7B /* ContentView.swift */,
-				290FDD6F259BA13800C60E7B /* Assets.xcassets */,
-				290FDD74259BA13800C60E7B /* Info.plist */,
-				290FDD71259BA13800C60E7B /* Preview Content */,
+				290FDDA7259D1DEF00C60E7B /* athkarApp.swift */,
+				290FDDA9259D1DEF00C60E7B /* ContentView.swift */,
+				290FDDAB259D1DF100C60E7B /* Assets.xcassets */,
+				290FDDB0259D1DF100C60E7B /* Info.plist */,
+				290FDDAD259D1DF100C60E7B /* Preview Content */,
 			);
-			path = "day4 ex";
+			path = athkar;
 			sourceTree = "<group>";
 		};
-		290FDD71259BA13800C60E7B /* Preview Content */ = {
+		290FDDAD259D1DF100C60E7B /* Preview Content */ = {
 			isa = PBXGroup;
 			children = (
-				290FDD72259BA13800C60E7B /* Preview Assets.xcassets */,
+				290FDDAE259D1DF100C60E7B /* Preview Assets.xcassets */,
 			);
 			path = "Preview Content";
 			sourceTree = "<group>";
@@ -72,38 +72,38 @@
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		290FDD67259BA13600C60E7B /* day4 ex */ = {
+		290FDDA3259D1DEF00C60E7B /* athkar */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 290FDD77259BA13800C60E7B /* Build configuration list for PBXNativeTarget "day4 ex" */;
+			buildConfigurationList = 290FDDB3259D1DF100C60E7B /* Build configuration list for PBXNativeTarget "athkar" */;
 			buildPhases = (
-				290FDD64259BA13600C60E7B /* Sources */,
-				290FDD65259BA13600C60E7B /* Frameworks */,
-				290FDD66259BA13600C60E7B /* Resources */,
+				290FDDA0259D1DEF00C60E7B /* Sources */,
+				290FDDA1259D1DEF00C60E7B /* Frameworks */,
+				290FDDA2259D1DEF00C60E7B /* Resources */,
 			);
 			buildRules = (
 			);
 			dependencies = (
 			);
-			name = "day4 ex";
-			productName = "day4 ex";
-			productReference = 290FDD68259BA13600C60E7B /* day4 ex.app */;
+			name = athkar;
+			productName = athkar;
+			productReference = 290FDDA4259D1DEF00C60E7B /* athkar.app */;
 			productType = "com.apple.product-type.application";
 		};
 /* End PBXNativeTarget section */
 
 /* Begin PBXProject section */
-		290FDD60259BA13600C60E7B /* Project object */ = {
+		290FDD9C259D1DEF00C60E7B /* Project object */ = {
 			isa = PBXProject;
 			attributes = {
 				LastSwiftUpdateCheck = 1230;
 				LastUpgradeCheck = 1230;
 				TargetAttributes = {
-					290FDD67259BA13600C60E7B = {
+					290FDDA3259D1DEF00C60E7B = {
 						CreatedOnToolsVersion = 12.3;
 					};
 				};
 			};
-			buildConfigurationList = 290FDD63259BA13600C60E7B /* Build configuration list for PBXProject "day4 ex" */;
+			buildConfigurationList = 290FDD9F259D1DEF00C60E7B /* Build configuration list for PBXProject "athkar" */;
 			compatibilityVersion = "Xcode 9.3";
 			developmentRegion = en;
 			hasScannedForEncodings = 0;
@@ -111,42 +111,42 @@
 				en,
 				Base,
 			);
-			mainGroup = 290FDD5F259BA13600C60E7B;
-			productRefGroup = 290FDD69259BA13600C60E7B /* Products */;
+			mainGroup = 290FDD9B259D1DEF00C60E7B;
+			productRefGroup = 290FDDA5259D1DEF00C60E7B /* Products */;
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				290FDD67259BA13600C60E7B /* day4 ex */,
+				290FDDA3259D1DEF00C60E7B /* athkar */,
 			);
 		};
 /* End PBXProject section */
 
 /* Begin PBXResourcesBuildPhase section */
-		290FDD66259BA13600C60E7B /* Resources */ = {
+		290FDDA2259D1DEF00C60E7B /* Resources */ = {
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				290FDD73259BA13800C60E7B /* Preview Assets.xcassets in Resources */,
-				290FDD70259BA13800C60E7B /* Assets.xcassets in Resources */,
+				290FDDAF259D1DF100C60E7B /* Preview Assets.xcassets in Resources */,
+				290FDDAC259D1DF100C60E7B /* Assets.xcassets in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXResourcesBuildPhase section */
 
 /* Begin PBXSourcesBuildPhase section */
-		290FDD64259BA13600C60E7B /* Sources */ = {
+		290FDDA0259D1DEF00C60E7B /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				290FDD6E259BA13600C60E7B /* ContentView.swift in Sources */,
-				290FDD6C259BA13600C60E7B /* day4_exApp.swift in Sources */,
+				290FDDAA259D1DEF00C60E7B /* ContentView.swift in Sources */,
+				290FDDA8259D1DEF00C60E7B /* athkarApp.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXSourcesBuildPhase section */
 
 /* Begin XCBuildConfiguration section */
-		290FDD75259BA13800C60E7B /* Debug */ = {
+		290FDDB1259D1DF100C60E7B /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
@@ -207,7 +207,7 @@
 			};
 			name = Debug;
 		};
-		290FDD76259BA13800C60E7B /* Release */ = {
+		290FDDB2259D1DF100C60E7B /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
@@ -262,44 +262,44 @@
 			};
 			name = Release;
 		};
-		290FDD78259BA13800C60E7B /* Debug */ = {
+		290FDDB4259D1DF100C60E7B /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
 				CODE_SIGN_STYLE = Automatic;
-				DEVELOPMENT_ASSET_PATHS = "\"day4 ex/Preview Content\"";
+				DEVELOPMENT_ASSET_PATHS = "\"athkar/Preview Content\"";
 				DEVELOPMENT_TEAM = VVK46Y3TM2;
 				ENABLE_PREVIEWS = YES;
-				INFOPLIST_FILE = "day4 ex/Info.plist";
+				INFOPLIST_FILE = athkar/Info.plist;
 				IPHONEOS_DEPLOYMENT_TARGET = 14.0;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = "bibi130.day4-ex";
+				PRODUCT_BUNDLE_IDENTIFIER = bibi130.athkar;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
 			};
 			name = Debug;
 		};
-		290FDD79259BA13800C60E7B /* Release */ = {
+		290FDDB5259D1DF100C60E7B /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
 				CODE_SIGN_STYLE = Automatic;
-				DEVELOPMENT_ASSET_PATHS = "\"day4 ex/Preview Content\"";
+				DEVELOPMENT_ASSET_PATHS = "\"athkar/Preview Content\"";
 				DEVELOPMENT_TEAM = VVK46Y3TM2;
 				ENABLE_PREVIEWS = YES;
-				INFOPLIST_FILE = "day4 ex/Info.plist";
+				INFOPLIST_FILE = athkar/Info.plist;
 				IPHONEOS_DEPLOYMENT_TARGET = 14.0;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = "bibi130.day4-ex";
+				PRODUCT_BUNDLE_IDENTIFIER = bibi130.athkar;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
@@ -309,25 +309,25 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		290FDD63259BA13600C60E7B /* Build configuration list for PBXProject "day4 ex" */ = {
+		290FDD9F259D1DEF00C60E7B /* Build configuration list for PBXProject "athkar" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				290FDD75259BA13800C60E7B /* Debug */,
-				290FDD76259BA13800C60E7B /* Release */,
+				290FDDB1259D1DF100C60E7B /* Debug */,
+				290FDDB2259D1DF100C60E7B /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		290FDD77259BA13800C60E7B /* Build configuration list for PBXNativeTarget "day4 ex" */ = {
+		290FDDB3259D1DF100C60E7B /* Build configuration list for PBXNativeTarget "athkar" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				290FDD78259BA13800C60E7B /* Debug */,
-				290FDD79259BA13800C60E7B /* Release */,
+				290FDDB4259D1DF100C60E7B /* Debug */,
+				290FDDB5259D1DF100C60E7B /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
-	rootObject = 290FDD60259BA13600C60E7B /* Project object */;
+	rootObject = 290FDD9C259D1DEF00C60E7B /* Project object */;
 }
